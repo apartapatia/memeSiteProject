@@ -38,6 +38,7 @@ public class UserControllerTest {
         user.setUsername("test-user");
         user.setDisplayName("test-name");
         user.setPassword("password");
+
         return user;
     }
 
